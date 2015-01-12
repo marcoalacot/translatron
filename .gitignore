@@ -1,0 +1,8 @@
+*.gem
+*.orig
+*.log
+*.sw[a-e]
+*.sw[g-z]
+.DS_Store
+.bundle
+.vagrant
